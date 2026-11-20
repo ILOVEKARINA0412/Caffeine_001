@@ -86,7 +86,7 @@ details p { color:var(--color-ink-2); padding-block:var(--space-md); }
 body { isolation:isolate; }
 body::before {
   content:""; position:fixed; inset:-40px; z-index:-1;
-  background:var(--color-paper) url('./assets/espresso.jpg') center / cover no-repeat;
+  background:var(--color-paper) url('./espresso.jpg') center / cover no-repeat;
   opacity:.28; filter:blur(18px); pointer-events:none;
 }
 .nav {
