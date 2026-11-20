@@ -192,3 +192,14 @@
 .shop-main:not(.product-main) { padding-bottom:var(--space-lg); }
 .shop-closing-note { margin-top:var(--space-lg); padding-block:var(--space-md); }
 .shop-page .shop-main:not(.product-main) + .footer { padding-top:var(--space-lg); }
+
+.shop-page #checkout-open {
+  font-size:var(--text-xs);
+  padding:var(--space-2xs) var(--space-sm);
+  min-height:44px;
+}
+
+.cart-dialog .cart-subtotal + p {
+  margin-top:calc(-1 * var(--space-xs));
+  margin-bottom:var(--space-xs);
+}
