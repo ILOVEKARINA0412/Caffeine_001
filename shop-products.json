@@ -3,7 +3,7 @@
     "id": "espresso",
     "name": "Espresso",
     "description": "A small cup with a bold personality",
-    "image": "assets/espresso-glass.jpg",
+    "image": "espresso-glass.jpg",
     "category": "Coffee",
     "prices": {
       "SGD": 350,
@@ -14,7 +14,7 @@
     "id": "flat-white",
     "name": "Flat white",
     "description": "Espresso meets softly steamed milk",
-    "image": "assets/flat-white-cup.jpg",
+    "image": "flat-white-cup.jpg",
     "category": "Coffee",
     "prices": {
       "SGD": 500,
@@ -25,7 +25,7 @@
     "id": "iced-latte",
     "name": "Iced latte",
     "description": "A slower sip for warmer afternoons",
-    "image": "assets/iced-latte.jpg",
+    "image": "iced-latte.jpg",
     "category": "Coffee",
     "prices": {
       "SGD": 550,
@@ -36,7 +36,7 @@
     "id": "filter-coffee",
     "name": "Filter coffee",
     "description": "Take your time There’s more to taste",
-    "image": "assets/filter-coffee.jpg",
+    "image": "filter-coffee.jpg",
     "category": "Coffee",
     "prices": {
       "SGD": 450,
@@ -47,7 +47,7 @@
     "id": "matcha-latte",
     "name": "Matcha latte",
     "description": "Earthy matcha softened with milk",
-    "image": "assets/matcha-latte.jpg",
+    "image": "matcha-latte.jpg",
     "category": "Tea & more",
     "prices": {
       "SGD": 600,
@@ -58,7 +58,7 @@
     "id": "hong-kong-milk-tea",
     "name": "Hong Kong milk tea",
     "description": "My Home Flavor",
-    "image": "assets/hong-kong-milk-tea.jpg",
+    "image": "hong-kong-milk-tea.jpg",
     "category": "Tea & more",
     "prices": {
       "SGD": 450,
@@ -69,7 +69,7 @@
     "id": "cold-brew-tea",
     "name": "Cold brew tea",
     "description": "Light cool and easy to linger over",
-    "image": "assets/cold-brew-tea.jpg",
+    "image": "cold-brew-tea.jpg",
     "category": "Tea & more",
     "prices": {
       "SGD": 400,
@@ -80,7 +80,7 @@
     "id": "kaya-toast",
     "name": "Kaya toast",
     "description": "A familiar Singapore-inspired pairing",
-    "image": "assets/kaya-toast.jpg",
+    "image": "kaya-toast.jpg",
     "category": "Little bites",
     "prices": {
       "SGD": 400,
@@ -91,7 +91,7 @@
     "id": "butter-croissant",
     "name": "Butter croissant",
     "description": "Flaky layers for a coffee break",
-    "image": "assets/butter-croissant.jpg",
+    "image": "butter-croissant.jpg",
     "category": "Little bites",
     "prices": {
       "SGD": 380,
@@ -102,7 +102,7 @@
     "id": "hong-kong-french-toast",
     "name": "Hong Kong French Toast",
     "description": "Toast and Syrup is the best combination",
-    "image": "assets/hong-kong-french-toast.jpg",
+    "image": "hong-kong-french-toast.jpg",
     "category": "Little bites",
     "prices": {
       "SGD": 550,
